@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Casablanca",
+    "latitude": 33.5731,
+    "longitude": -7.5898
+  },
+  {
+    "name": "Rabat",
+    "latitude": 34.0209,
+    "longitude": -6.8417
+  },
+  {
+    "name": "Marrakech",
+    "latitude": 31.6295,
+    "longitude": -7.9811
+  },
+  {
+    "name": "Fes",
+    "latitude": 34.0331,
+    "longitude": -5.0003
+  },
+  {
+    "name": "Agadir",
+    "latitude": 30.4278,
+    "longitude": -9.5981
+  },
+  {
+    "name": "Tangier",
+    "latitude": 35.7595,
+    "longitude": -5.8340
+  },
+  {
+    "name": "Oujda",
+    "latitude": 34.6814,
+    "longitude": -1.9086
+  },
+  {
+    "name": "Kenitra",
+    "latitude": 34.2645,
+    "longitude": -6.5791
+  },
+  {
+    "name": "Meknes",
+    "latitude": 33.8935,
+    "longitude": -5.5470
+  },
+  {
+    "name": "Essaouira",
+    "latitude": 31.5085,
+    "longitude": -9.7595
+  },
+  {
+    "name": "Dakhla",
+    "latitude": 23.6848,
+    "longitude": -15.9570
+  },
+  {
+    "name": "Tetouan",
+    "latitude": 35.5770,
+    "longitude": -5.3684
+  },
+  {
+    "name": "Chefchaouen",
+    "latitude": 35.1714,
+    "longitude": -5.2697
+  },
+  {
+    "name": "El Jadida",
+    "latitude": 33.2560,
+    "longitude": -8.5086
+  },
+  {
+    "name": "Safi",
+    "latitude": 32.3008,
+    "longitude": -9.2372
+  }
+]
